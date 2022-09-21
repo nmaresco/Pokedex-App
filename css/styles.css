@@ -31,7 +31,7 @@ ul {
   text-align: center;
   border-radius: 8px;
   max-width: 800px;
-  margin: auto;
+  margin: 0 auto; 
 }
 .modal-dialog {
   background-color: orange;
